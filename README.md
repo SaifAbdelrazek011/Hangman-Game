@@ -56,11 +56,11 @@ This game is built using **HTML**, **CSS**, **JavaScript**, and **JSON** and is 
 ### Installation  
 1. Clone this repository:  
    ```bash  
-   git clone https://github.com/SaifAbdelrazek011/hangman-website.git  
+   git clone https://github.com/SaifAbdelrazek011/Hangman-Game.git  
    ```  
 2. Navigate to the project folder:  
    ```bash  
-   cd hangman-website  
+   cd Hangman-Game
    ```  
 3. Open `index.html` in your browser to start playing!  
 
