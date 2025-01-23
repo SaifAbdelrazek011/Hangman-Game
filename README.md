@@ -75,7 +75,7 @@ This game is built using **HTML**, **CSS**, **JavaScript**, and **JSON** and is 
 ---
 
 ### Contribution  
-Contributions are welcome! If you have ideas or find any bugs, feel free to open an issue or submit a pull request.  
+Contributions are welcome! If you have ideas or find any bugs, feel free to DM me on slack.
 
 ---
 
