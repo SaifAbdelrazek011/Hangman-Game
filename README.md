@@ -5,7 +5,7 @@ Hangman is a classic word-guessing game reimagined as a fun, interactive website
 
 This game is built using **HTML**, **CSS**, **JavaScript**, and **JSON** and is fully responsive, making it accessible on both desktop and mobile devices.  
 
-One of the things that made me make this project is to enhance my skills in drawing by before and after without using images or any thing else. I want to to make it better by implementing the features of dark and light themes toggling and some others as a practice of constructing responsive, beautiful projects before start learing other skills of frontEnd like TypeScript, react and other frameworks.
+One of the things that made me make this project is to enhance my skills in drawing using pseudo-elements like before and after. I wanted also to make it better by implementing the features of dark and light themes toggling and some others as a practice of constructing responsive, beautiful projects before start learing other skills of frontEnd like TypeScript, react and other frameworks.
 
 ---
 
