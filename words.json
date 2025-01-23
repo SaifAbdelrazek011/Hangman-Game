@@ -1,0 +1,148 @@
+{
+  "easy": {
+    "programming": [
+      "HTML",
+      "CSS",
+      "Python",
+      "Java",
+      "SQL",
+      "PHP",
+      "Ruby",
+      "Swift",
+      "JavaScript"
+    ],
+    "movies": [
+      "Frozen",
+      "Shrek",
+      "Titanic",
+      "Avatar",
+      "The Lion King",
+      "Toy Story",
+      "Spider-Man",
+      "The Avengers",
+      "Home Alone",
+      "Finding Nemo"
+    ],
+    "people": [
+      "Obama",
+      "Einstein",
+      "Newton",
+      "Tesla",
+      "Shakespeare",
+      "Mark Twain",
+      "Elvis",
+      "Cleopatra",
+      "Ronaldo",
+      "Messi"
+    ],
+    "countries": [
+      "USA",
+      "Egypt",
+      "India",
+      "Japan",
+      "China",
+      "Brazil",
+      "Italy",
+      "France",
+      "Canada",
+      "Spain"
+    ]
+  },
+  "medium": {
+    "programming": [
+      "TypeScript",
+      "Django",
+      "React",
+      "Vue",
+      "Kotlin",
+      "Flutter",
+      "Perl",
+      "Angular"
+    ],
+    "movies": [
+      "Inception",
+      "Gladiator",
+      "The Dark Knight",
+      "Forrest Gump",
+      "Interstellar",
+      "The Matrix",
+      "The Shawshank Redemption",
+      "Jurassic Park",
+      "Pulp Fiction",
+      "Fight Club"
+    ],
+    "people": [
+      "Marie Curie",
+      "Leonardo da Vinci",
+      "Steve Jobs",
+      "Ada Lovelace",
+      "Neil Armstrong",
+      "Rowling",
+      "Vincent van Gogh",
+      "Galileo Galilei",
+      "Martin Luther King Jr.",
+      "Charles Darwin"
+    ],
+    "countries": [
+      "Germany",
+      "Australia",
+      "South Korea",
+      "South Africa",
+      "Argentina",
+      "Russia",
+      "Mexico",
+      "Thailand",
+      "Norway",
+      "Greece"
+    ]
+  },
+  "hard": {
+    "programming": [
+      "Haskell",
+      "Rust",
+      "Scala",
+      "Elixir",
+      "Clojure",
+      "Prolog",
+      "Erlang",
+      "Julia",
+      "Objective-C"
+    ],
+    "movies": [
+      "Requiem for a Dream",
+      "The Tree of Life",
+      "Memento",
+      "Blade Runner",
+      "Donnie Darko",
+      "The Prestige",
+      "A Clockwork Orange",
+      "Apocalypse Now",
+      "Mulholland Drive",
+      "The Seventh Seal"
+    ],
+    "people": [
+      "Alan Turing",
+      "Frida Kahlo",
+      "Socrates",
+      "Alexander the Great",
+      "Mahatma Gandhi",
+      "Nikola Tesla",
+      "Isaac Newton",
+      "Virginia Woolf",
+      "Carl Sagan",
+      "Ludwig van Beethoven"
+    ],
+    "countries": [
+      "Bhutan",
+      "Eswatini",
+      "Mauritius",
+      "Comoros",
+      "Tajikistan",
+      "Vanuatu",
+      "Kiribati",
+      "Mongolia",
+      "Liechtenstein",
+      "Seychelles"
+    ]
+  }
+}
