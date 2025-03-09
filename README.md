@@ -1,11 +1,13 @@
 # Hangman Game  
 
+**By [Saif Abdelrazek](https://github.com/SaifAbdelrazek011)**  
+
 ### Description  
 Hangman is a classic word-guessing game reimagined as a fun, interactive website. Players try to guess a hidden word by selecting letters, but beware—you only have 8 wrong guesses before the game ends!  
 
 This game is built using **HTML**, **CSS**, **JavaScript**, and **JSON** and is fully responsive, making it accessible on both desktop and mobile devices.  
 
-One of the things that made me make this project is to enhance my skills in drawing using pseudo-elements like before and after. I wanted also to make it better by implementing the features of dark and light themes toggling and some others as a practice of constructing responsive, beautiful projects before start learing other skills of frontEnd like TypeScript, react and other frameworks.
+One of the reasons I made this project was to enhance my drawing skills using pseudo-elements like before and after. I also wanted to improve it by implementing the features of dark and light theme toggling and some others as a practice of constructing responsive, beautiful projects before starting to learn other front-end skills like TypeScript, React, and other frameworks.
 
 ---
 
